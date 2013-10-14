@@ -368,6 +368,11 @@ table.plain tbody > tr:nth-child(odd) > th {
     background-size: cover;
 }
 
+#site-head-content {
+    margin-top: 195px;
+    text-align: left;
+}
+
 /* Yo-logo. Yolo-go. Upload one in ghost/settings/ */
 #blog-logo img {
     display: block;
